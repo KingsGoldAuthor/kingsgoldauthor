@@ -1,16 +1,17 @@
-## Hi there 👋
+# Kings Gold Author Website
 
-<!--
-**KingsGoldAuthor/kingsgoldauthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official website of Kings Gold.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Premium homepage
+- Werewolf romance books
+- Author profile
+- Reader dashboard
+- Blog
+- Newsletter
+- Contact page
+
+## Status
+
+🚧 Currently under development.
